@@ -40,7 +40,7 @@
 </div>
 
 ---
-## 실시간 객체 인식 시스템(Real-Time Object Detection System) <> 웹캠 또는 동영상(webcam or video)
+## 실시간 객체 인식 시스템(Real-Time Object Detection System) - 웹캠 또는 동영상(webcam or video)
 * #### 비디오를 저장하지 않을 경우
   * webcam : sudo python3 real_time_object_detection.py
     * 예) sudo python3 real_time_object_detection.py
