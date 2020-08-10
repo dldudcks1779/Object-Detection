@@ -54,8 +54,8 @@
 
 <div>
   <p align="center">
-    <img width="300" src="test_video/test_video_1.jpg"> 
-    <img width="300" src="result_video/result_video_1.jpg">
+    <img width="300" src="test_video/test_video_1.gif"> 
+    <img width="300" src="result_video/result_video_1.gif">
   </p>
 </div>
 
