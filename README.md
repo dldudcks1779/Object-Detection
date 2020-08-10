@@ -54,8 +54,8 @@
 
 <div>
   <p align="center">
-    <img width="300" src="test_image/test_image_1.jpg"> 
-    <img width="300" src="result_image/result_image_1.jpg">
+    <img width="300" src="https://drive.google.com/file/d/1_A5dx8w1nle7lcho4de_fbG9UL2jGVZk/view?usp=sharing"> 
+    
   </p>
 </div>
 
