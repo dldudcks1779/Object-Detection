@@ -54,22 +54,19 @@
 
 <div>
   <p align="center">
-    <img width="300" src="test_video/test_video_1.gif"> 
     <img width="300" src="result_video/result_video_1.gif">
   </p>
 </div>
 
 <div>
   <p align="center">
-    <img width="300" src="test_image/test_image_2.jpg"> 
-    <img width="300" src="result_image/result_image_2.jpg">
+    <img width="300" src="result_video/result_video_2.gif">
   </p>
 </div>
 
 <div>
   <p align="center">
-    <img width="300" src="test_image/test_image_3.jpg"> 
-    <img width="300" src="result_image/result_image_3.jpg">
+    <img width="300" src="result_video/result_video_3.gif">
   </p>
 </div>
 
