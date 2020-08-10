@@ -16,8 +16,20 @@
 * #### 이미지를 저장할 경우
   * sudo python3 object_detection_image.py --input 이미지 경로 --output 저장할 이미지 경로
   * 예) sudo python3 object_detection_image.py --input ./test_image/test_image_1.jpg --output ./result_image/result_image_1.jpg
-
 ---
 
-
+---
 ## 실시간 객체 인식 시스템(Real-Time Object Detection System) - 웹캠 또는 동영상(webcam or video)
+* #### 비디오를 저장하지 않을 경우
+ * webcam : sudo python3 real_time_object_detection.py
+  * 예) sudo python3 real_time_object_detection.py
+ * video : sudo python3 real_time_object_detection.py --input 비디오 경로
+  * 예) sudo python3 real_time_object_detection.py --input ./test_video/test_video_1.mp4
+* #### 비디오를 저장할 경우
+ * webcam : sudo python3 real_time_object_detection.py --output 저장할 비디오 경로
+  * 예) sudo python3 real_time_object_detection.py --output ./result_video/result_video_1.avi
+ * video : sudo python3 real_time_object_detection.py --input 비디오 경로 --output 저장할 비디오 경로
+  * 예) sudo python3 real_time_object_detection.py --input ./test_video/test_video_1.mp4 --output ./result_video/result_video_1.avi
+---
+
+---
