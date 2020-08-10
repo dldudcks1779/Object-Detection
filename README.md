@@ -17,7 +17,7 @@
   * sudo python3 object_detection_image.py --input 이미지 경로 --output 저장할 이미지 경로
   * 예) sudo python3 object_detection_image.py --input ./test_image/test_image_1.jpg --output ./result_image/result_image_1.jpg
 
-<div>
+<div style="text-align:center;>
 <img width="300" src="test_image/test_image_1.jpg"> 
 <img width="300" src="result_image/result_image_1.jpg">
 </div>
