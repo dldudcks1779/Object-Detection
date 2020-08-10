@@ -11,14 +11,11 @@
 ---
 ## 이미지 객체 인식 시스템(Image Object Detection System)
 #### 이미지를 저장하지 않을 경우
-'''
-  sudo python3 object_detection_image.py --input 이미지 경로
-'''
-#### sudo python3 object_detection_image.py --input 이미지 경로
-#### 예) sudo python3 object_detection_image.py --input ./test_image/test_image_1.jpg
+  - sudo python3 object_detection_image.py --input 이미지 경로
+  - 예) sudo python3 object_detection_image.py --input ./test_image/test_image_1.jpg
 #### 이미지를 저장할 경우
-#### sudo python3 object_detection_image.py --input 이미지 경로 --output 저장할 이미지 경로
-#### 예) sudo python3 object_detection_image.py --input ./test_image/test_image_1.jpg --output ./result_image/result_image_1.jpg
+  - sudo python3 object_detection_image.py --input 이미지 경로 --output 저장할 이미지 경로
+  - 예) sudo python3 object_detection_image.py --input ./test_image/test_image_1.jpg --output ./result_image/result_image_1.jpg
 
 
 
