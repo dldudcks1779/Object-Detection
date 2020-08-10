@@ -70,7 +70,5 @@
   </p>
 </div>
 
-<br/>
-#### 결과 영상 : https://drive.google.com/drive/folders/1LhKoeB71w9bIpKFmxnWBKQmr2PO4A8iv?usp=sharing
-
+##### 결과 영상 : https://drive.google.com/drive/folders/1LhKoeB71w9bIpKFmxnWBKQmr2PO4A8iv?usp=sharing
 ---
