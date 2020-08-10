@@ -1,15 +1,15 @@
 ##### 실행 #####
 # 비디오를 저장하지 않을 경우
 # webcam : sudo python3 real_time_object_detection.py
+# 예) sudo python3 real_time_object_detection.py
 # video : sudo python3 real_time_object_detection.py --input 비디오 경로
-# 예) sudo python3 object_detection.py
-# 예) sudo python3 object_detection.py --input ./test_video/test_video_1.mp4
+# 예) sudo python3 real_time_object_detection.py --input ./test_video/test_video_1.mp4
 #
 # 비디오를 저장할 경우
 # webcam : sudo python3 real_time_object_detection.py --output 저장할 비디오 경로
+# 예) sudo python3 real_time_object_detection.py --output ./result_video/result_video_1.avi
 # video : sudo python3 real_time_object_detection.py --input 비디오 경로 --output 저장할 비디오 경로
-# 예) sudo python3 object_detection.py --output ./result_video/result_video_1.avi
-# 예) sudo python3 object_detection.py --input ./test_video/test_video_1.mp4 --output ./result_video/result_video_1.avi
+# 예) sudo python3 real_time_object_detection.py --input ./test_video/test_video_1.mp4 --output ./result_video/result_video_1.avi
 
 # 필요한 패키지 import
 from imutils.video import VideoStream
