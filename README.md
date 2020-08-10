@@ -54,6 +54,7 @@
     * 예) sudo python3 real_time_object_detection.py --output ./result_video/result_video_1.avi
   * video : sudo python3 real_time_object_detection.py --input 비디오 경로 --output 저장할 비디오 경로
     * 예) sudo python3 real_time_object_detection.py --input ./test_video/test_video_1.mp4 --output ./result_video/result_video_1.avi
----
+
+
 
 ---
