@@ -27,9 +27,24 @@
   </p>
 </div>
 
+<div>
+  <p align="center">
+    <img width="300" src="test_image/test_image_2.jpg"> 
+    <img width="300" src="result_image/result_image_2.jpg">
+  </p>
+</div>
+
+<div>
+  <p align="center">
+    <img width="300" src="test_image/test_image_3.jpg"> 
+    <img width="300" src="result_image/result_image_3.jpg">
+  </p>
+</div>
+
 ---
 
-## 실시간 객체 인식 시스템(Real-Time Object Detection System) - 웹캠 또는 동영상(webcam or video)
+## 실시간 객체 인식 시스템(Real-Time Object Detection System) 
+### - 웹캠 또는 동영상(webcam or video)
 * #### 비디오를 저장하지 않을 경우
   * webcam : sudo python3 real_time_object_detection.py
     * 예) sudo python3 real_time_object_detection.py
