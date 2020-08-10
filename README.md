@@ -17,7 +17,10 @@
   * sudo python3 object_detection_image.py --input 이미지 경로 --output 저장할 이미지 경로
   * 예) sudo python3 object_detection_image.py --input ./test_image/test_image_1.jpg --output ./result_image/result_image_1.jpg
 ---
-
+<div>
+  <img width="300" src="https://user-images.githubusercontent.com/66527131/89768648-d535a100-db36-11ea-93ca-d5864db1ad1d.jpg"> 
+  <img width="300" src="https://user-images.githubusercontent.com/66527131/89768791-0dd57a80-db37-11ea-9055-c96cce784b40.jpg"> 
+</div>
 ---
 ## 실시간 객체 인식 시스템(Real-Time Object Detection System) - 웹캠 또는 동영상(webcam or video)
 * #### 비디오를 저장하지 않을 경우
