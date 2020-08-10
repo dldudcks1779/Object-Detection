@@ -9,7 +9,7 @@
 ##### prototxt 파일 : 모델의 레이어 구성 및 속성 정의
 ---
 ### 실행 환경
-#### OpenCV Version : 3.x.x
+* #### OpenCV Version : 3.x.x
 ---
 ## 이미지 객체 인식 시스템(Image Object Detection System)
 * #### 이미지를 저장하지 않을 경우
