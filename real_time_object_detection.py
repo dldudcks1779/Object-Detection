@@ -130,7 +130,7 @@ while True:
 # fps 정지 및 정보 출력
 fps.stop()
 print("[재생 시간 : {:.2f}초]".format(fps.elapsed()))
-print("[FPS : {:.2f}초]".format(fps.fps()))
+print("[FPS : {:.2f}]".format(fps.fps()))
 
 # 종료
 vs.release()
