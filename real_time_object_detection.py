@@ -61,11 +61,8 @@ while True:
     # 읽은 프레임이 없는 경우 종료
     if args["input"] is not None and frame is None:
         break
-
-    # 프레임 크기 조정
-    frame = imutils.resize(frame, width=1000)
     
-    # 이미지 크기
+    # 프레임 크기
     (h, w) = frame.shape[:2]
 
     # blob 이미지 생성
