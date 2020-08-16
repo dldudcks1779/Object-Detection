@@ -108,7 +108,7 @@ while True:
             cv2.putText(frame, label, (startX, y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, COLORS[idx], 2)
     
     # 프레임 출력
-    cv2.imshow("Frame", frame)
+    cv2.imshow("Real-Time Object Detection", frame)
     key = cv2.waitKey(1) & 0xFF
     
     # 'q' 키를 입력하면 종료
