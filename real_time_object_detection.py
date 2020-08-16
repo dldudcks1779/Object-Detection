@@ -52,6 +52,7 @@ else:
 fps = FPS().start()
 
 writer = None
+(w, h) = (None, None)
 
 # 비디오 스트림 프레임 반복
 while True:
@@ -63,7 +64,8 @@ while True:
         break
     
     # 프레임 크기
-    (h, w) = frame.shape[:2]
+    if w is None or h is None:
+        (h, w) = frame.shape[:2]
 
     # blob 이미지 생성
     # 파라미터
