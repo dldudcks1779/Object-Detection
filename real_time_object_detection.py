@@ -63,6 +63,9 @@ while True:
     if args["input"] is not None and frame is None:
         break
     
+    # 프레임 크기 
+    frame = imutils.resize(frame, width=1000)
+    
     # 프레임 크기
     if w is None or h is None:
         (h, w) = frame.shape[:2]
