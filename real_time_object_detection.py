@@ -63,7 +63,7 @@ while True:
     if args["input"] is not None and frame is None:
         break
     
-    # 프레임 크기 
+    # 프레임 크기 지정
     frame = imutils.resize(frame, width=1000)
     
     # 프레임 크기
