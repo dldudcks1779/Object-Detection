@@ -103,7 +103,7 @@ while True:
             y = startY - 15 if startY - 15 > 15 else startY + 15
 
             # label text 출력
-            cv2.putText(frame, label, (startX, y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, COLORS[idx], 2)
+            cv2.putText(frame, label, (startX, y), cv2.FONT_HERSHEY_SIMPLEX, 1, COLORS[idx], 3)
     
     # 프레임 출력
     cv2.imshow("Real-Time Object Detection", frame)
