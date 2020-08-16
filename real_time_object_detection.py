@@ -12,7 +12,6 @@
 # 예) sudo python3 real_time_object_detection.py --input ./test_video/test_video_1.mp4 --output ./result_video/result_video_1.avi
 
 # 필요한 패키지 import
-from imutils.video import VideoStream
 from imutils.video import FPS
 import numpy as np # 파이썬 행렬 수식 및 수치 계산 처리 모듈
 import argparse # 명령행 파싱(인자를 입력 받고 파싱, 예외처리 등) 모듈
