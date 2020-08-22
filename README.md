@@ -9,6 +9,9 @@
 * #### Ubuntu
 * #### OpenCV Version : 3.x.x
   * ##### 설치 : https://blog.naver.com/dldudcks1779/222020005648
+* #### imutils
+  * ##### 설치 : sudo pip3 install imutils
+
 ---
 ## 이미지 객체 인식 시스템(Image Object Detection System)
 * #### 이미지를 저장하지 않을 경우
