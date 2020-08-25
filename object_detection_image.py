@@ -40,7 +40,7 @@ image = cv2.imread(args["input"])
 # blob 이미지 생성
 # 파라미터
 # 1) image : 사용할 이미지
-# 2) scalefactor : 이미지 크기 비율 지정(300x300 pixels)
+# 2) scalefactor : 이미지 크기 비율 지정
 # 3) size : Convolutional Neural Network에서 사용할 이미지 크기를 지정
 # 4) mean : Mean Subtraction 값을 RGB 색상 채널별로 지정해 주는 경험치 값(최적의 값)
 blob = cv2.dnn.blobFromImage(cv2.resize(image, (300, 300)), 0.007843, (300, 300), 127.5)
